@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0027-remove-element) |
+| [0605-can-place-flowers](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Tree
 |  |
@@ -50,4 +51,8 @@
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->

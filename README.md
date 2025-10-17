@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0027-remove-element) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Tree
 |  |
 | ------- |

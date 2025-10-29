@@ -7,12 +7,14 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/1894-merge-strings-alternately) |
@@ -84,4 +86,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0054-spiral-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

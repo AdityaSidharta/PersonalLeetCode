@@ -7,6 +7,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0202-happy-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Two Pointers
@@ -17,6 +18,7 @@
 | [0027-remove-element](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0392-is-subsequence) |
@@ -42,6 +44,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0189-rotate-array) |
 | [0322-coin-change](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0322-coin-change) |
 | [0605-can-place-flowers](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |

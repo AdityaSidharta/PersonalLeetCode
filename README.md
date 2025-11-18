@@ -47,6 +47,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0322-coin-change) |
 | [0605-can-place-flowers](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0605-can-place-flowers) |
@@ -79,6 +80,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Greedy
 |  |
@@ -132,4 +134,12 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0274-h-index) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AdityaSidharta/PersonalLeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
